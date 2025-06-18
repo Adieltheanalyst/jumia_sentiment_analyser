@@ -1,3 +1,15 @@
 selenium
 scrapy
-sqlite3
+pandas
+spacy
+nltk
+matplotlib
+seaborn
+scikit-learn
+wordcloud
+transformers
+torch
+textblob
+gensim
+pyLDAvis
+imblearn
